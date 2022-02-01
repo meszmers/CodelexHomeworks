@@ -1,0 +1,20 @@
+
+Paper,Scissors,Ai win
+Lizard,Scissors,Ai win
+Spock,Lizard,Ai win
+Paper,Lizard,Ai win
+Paper,Paper,Tie!
+Paper,Paper,Tie!
+Scissors,Rock,Ai win
+Scissors,Paper,I win
+Paper,Scissors,Ai win
+Scissors,Lizard,I win
+Lizard,Paper,I win
+Spock,Scissors,I win
+Spock,Lizard,Ai win
+Paper,Lizard,Ai win
+Lizard,Scissors,Ai win
+Spock,Lizard,Ai win
+Paper,Rock,I win
+Paper,Scissors,Ai win
+Lizard,Spock,I win
